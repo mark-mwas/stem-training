@@ -2,5 +2,5 @@
 # day one
 _installing python
 files for bootcamp
-##day two
+##Day two
 -manipulating data types
