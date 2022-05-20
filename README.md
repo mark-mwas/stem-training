@@ -1,6 +1,6 @@
 # stem-training
 # day one
-## title 2
+_installing python
 files for bootcamp
 ##day two
 -manipulating data types
